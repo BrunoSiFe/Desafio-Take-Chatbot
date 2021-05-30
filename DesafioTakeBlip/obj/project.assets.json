@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EstágioTrabalho\\Take\\Código\\DesafioTakeBlip\\DesafioTakeBlip\\DesafioTakeBlip.csproj",
+      "projectUniqueName": "D:\\EstágioTrabalho\\Take\\Código\\DesafioTakeBlip\\DesafioTakeBlip.csproj",
       "projectName": "DesafioTakeBlip",
-      "projectPath": "D:\\EstágioTrabalho\\Take\\Código\\DesafioTakeBlip\\DesafioTakeBlip\\DesafioTakeBlip.csproj",
+      "projectPath": "D:\\EstágioTrabalho\\Take\\Código\\DesafioTakeBlip\\DesafioTakeBlip.csproj",
       "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
-      "outputPath": "D:\\EstágioTrabalho\\Take\\Código\\DesafioTakeBlip\\DesafioTakeBlip\\obj\\",
+      "outputPath": "D:\\EstágioTrabalho\\Take\\Código\\DesafioTakeBlip\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",

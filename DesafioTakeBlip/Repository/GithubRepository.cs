@@ -26,7 +26,6 @@ namespace DesafioTakeBlip.Repository
 
             client.DefaultRequestHeaders.Accept.Clear();
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-            client.DefaultRequestHeaders.Add("Authorization", "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&");
             client.DefaultRequestHeaders.Add("User-Agent", "BrunoSiFe");
             HttpResponseMessage response = client.GetAsync(url).Result;
 
