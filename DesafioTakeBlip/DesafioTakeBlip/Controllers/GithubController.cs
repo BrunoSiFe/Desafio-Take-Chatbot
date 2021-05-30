@@ -14,6 +14,7 @@ namespace DesafioTakeBlip.Controllers
     public class GithubController : ControllerBase
     {
         private readonly IGithubService githubService = new GithubService();
+
         [HttpGet]
         public IActionResult getRepositories()
         {

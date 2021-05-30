@@ -7,6 +7,6 @@ namespace DesafioTakeBlip.Repository.Interface
 {
     public interface IGithubRepository
     {
-        public String getRespositories();
+        public string getRespositories();
     }
 }

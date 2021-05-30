@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DesafioTakeBlip",
+    "\\DesafioTakeBlip\\bin\\Debug",
+    "\\DesafioTakeBlip\\bin\\Debug\\netcoreapp3.1"
   ],
-  "SelectedNode": "\\D:\\EstágioTrabalho\\Take\\Código",
+  "SelectedNode": "\\DesafioTakeBlip\\DesafioTakeBlip",
   "PreviewInSolutionExplorer": false
 }

@@ -7,7 +7,6 @@ namespace DesafioTakeBlip.Domain
 {
     public class Response
     {
-        public int totalCount { get; set; }
         public Repository firstRepository { get; set;}
         public Repository secondRepository { get; set; }
         public Repository thirdRepository { get; set; }
